@@ -1,0 +1,12 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "Atharva , Ronak",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+
+    }
+}
